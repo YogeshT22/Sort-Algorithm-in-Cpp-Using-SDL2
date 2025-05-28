@@ -4,7 +4,7 @@ A C++ application that visually demonstrates sorting algorithms using the SDL2 g
 
 ## 🎥 Preview
 
-<img src="src.jpg" alt="Sorting Visualizer Preview" width="500">
+<img src="src.png" alt="Sorting Visualizer Preview" width="500">
 
 ## 🚀 Features
 
